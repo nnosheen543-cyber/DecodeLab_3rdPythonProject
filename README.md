@@ -57,6 +57,9 @@ The project can be enhanced by incorporating additional features such as:
 **Domain:** Cybersecurity & Automation
 **Batch:** 2026 Internship Program (DecodeLabs)
 
-## Author
+## Sample Output:
+<img width="363" height="236" alt="image" src="https://github.com/user-attachments/assets/814acf3c-4a6a-4889-812d-8db223815097" />
+
+
 
 Nosheen Nasir
