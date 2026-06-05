@@ -57,6 +57,6 @@ The project can be enhanced by incorporating additional features such as:
 **Domain:** Cybersecurity & Automation
 **Batch:** 2026 Internship Program (DecodeLabs)
 
-## Future Scope
+## Author
 
 Nosheen Nasir
